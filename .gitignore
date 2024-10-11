@@ -3,6 +3,7 @@
 
 # Exlude Application Properties
 /src/main/resources/application.properties
+/target/
 
 # Log file
 *.log
