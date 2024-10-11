@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eabdc272-84dc-41fa-8b8a-6acd4d2dd63c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/entjava/furryfriends/model/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entjava/furryfriends/model/Fish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,9 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenDatabaseViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Spring Boot.FurryfriendsApplication.executor": "Run",
+    "git-widget-placeholder": "separate-branch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Jonathan Juanillo/Desktop/EntJavaProjects/furryfriendsENTJAVA",
     "node.js.detected.package.eslint": "true",
