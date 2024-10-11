@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eabdc272-84dc-41fa-8b8a-6acd4d2dd63c" name="Changes" comment="" />
+    <list default="true" id="eabdc272-84dc-41fa-8b8a-6acd4d2dd63c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/entjava/furryfriends/model/Fish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/entjava/furryfriends/model/Fish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1728655908417</updated>
       <workItem from="1728655909453" duration="5045000" />
-      <workItem from="1728660988020" duration="2872000" />
+      <workItem from="1728660988020" duration="1905000" />
     </task>
     <servers />
   </component>

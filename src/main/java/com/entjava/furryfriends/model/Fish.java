@@ -7,7 +7,7 @@ import lombok.*;
 @Data
 @EqualsAndHashCode(callSuper = true)
 public class Fish extends Pet {
-    private String type;
+    private String variant;
     private String size;
     private String coloration;
 }
